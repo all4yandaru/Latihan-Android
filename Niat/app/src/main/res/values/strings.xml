@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">PUBGM STAR</string>
+    <string name="type">Style</string>
+    <string name="name_gun">Team </string>
+    <string name="grid">Grid</string>
+    <string name="list">List</string>
+    <string name="card_view">Card View</string>
+    <string name="bigetron">Bigetron</string>
+    <string name="search">Search</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pubg_mobile">PUBG MOBILE</string>
+    <string name="birthday">Birthday</string>
+    <string name="from">From</string>
+    <string name="sniper">Sniper</string>
+    <string name="rusher">Rusher</string>
+    <string name="observer">Observer</string>
+    <string name="support">Support</string>
+    <string name="indonedia">Indonedia</string>
+</resources>

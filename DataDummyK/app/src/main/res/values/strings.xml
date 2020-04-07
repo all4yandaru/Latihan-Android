@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DataDummyK</string>
+    
+    <string-array name="data_nama">
+        <item>Liek Allyandaru</item>
+        <item>Rama Tri Agung</item>
+        <item>Muhammad Anjar H</item>
+    </string-array>
+
+    <string-array name="data_lahir">
+        <item>06 Januari 2000</item>
+        <item>33 Desember 2999</item>
+        <item>26 Juni 2001</item>
+    </string-array>
+</resources>
