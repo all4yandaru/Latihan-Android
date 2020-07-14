@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pendataan Mahasiswa RoomDB</string>
+
+    <!--TODO 7: tambahin ini kalo ada eror di todo 6-->
+    <item name="visible" type="id" />
+    <item name="masked" type="id" />
+</resources>
